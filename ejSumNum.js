@@ -9,5 +9,5 @@ for(let cont=1;cont<nums.length;cont++)
     numsResultado[cont]=valoracumulado + nums[cont];
 }
 console.log("Input: "+nums);
-console.log(`Output: ${numsResultado}`)
+console.log(`Output: ${numsResultado}`);
 console.log('Hola');
